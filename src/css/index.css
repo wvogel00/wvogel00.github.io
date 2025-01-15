@@ -1,0 +1,20 @@
+img.logo
+{
+    margin-top: 1px;
+    margin-bottom: 0px;
+    width: 100%;
+}
+
+div 
+{
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 12%;
+}
+
+p
+{
+    font-size:x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 10%;
+}
